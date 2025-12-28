@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Seyong Lee (pla2n)
 
 ### 🚀 **AI & Backend Developer**
-> **"Research to Engineering."** > SCI급 논문 1저자 경험과 RAG 기반 서비스 개발 역량을 갖춘 개발자입니다.  
-> 끊임없이 탐구하고, 문제를 끝까지 해결하는 것을 즐깁니다.
+**"Research to Engineering."** > SCI급 논문 1저자 경험과 RAG 기반 서비스 개발 역량을 갖춘 개발자입니다.
+끊임없이 탐구하고, 문제를 끝까지 해결하는 것을 즐깁니다.
 
 ---
 
 ### 📚 **Special Experiences**
-- **SCI Journal 1st Author**: *Electronics* (IF: 2.9) - "Mind Mapping Prompt Injection"
+- **SCI Journal 1st Author**: *Electronics* (IF: 2.9) - ["Mind Mapping Prompt Injection: Visual Prompt Injection Attacks in Modern Large Language Models."] (https://doi.org/10.3390/electronics14101907)
 - **KT AIVLE School**: AI Developer Track (8th)
 
 ---
