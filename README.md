@@ -9,7 +9,6 @@
 ### 📚 **Special Experiences**
 - **SCI Journal 1st Author**: *Electronics* (IF: 2.9) - "Mind Mapping Prompt Injection"
 - **KT AIVLE School**: AI Developer Track (8th)
-- **Award**: Yeungnam Univ. Midas Group 최우수상
 
 ---
 
@@ -17,7 +16,6 @@
 
 **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **AI & Data** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
