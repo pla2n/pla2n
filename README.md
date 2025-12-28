@@ -29,14 +29,6 @@
 
 ---
 
-### 🔥 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pla2n&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pla2n&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
-
----
-
 ### 📫 **Connect**
 - **Email**: rred5899@yu.ac.kr
 - **Solved.ac**: [red5899](https://solved.ac/profile/red5899)
