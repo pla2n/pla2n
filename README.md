@@ -8,7 +8,7 @@ SCIE급 논문 1저자 경험과 RAG 기반 서비스 개발 역량을 갖춘 �
 
 ### 📚 **Special Experiences**
 - **SCI Journal 1st Author**: *Electronics* (IF: 2.9) - ["Mind Mapping Prompt Injection"](https://doi.org/10.3390/electronics14101907)
-- **KT AIVLE School**: AI Developer Track (8th)
+- **KT AIVLE School**: AI Developer Track (8th, Dean's List(Top Student))
 
 ---
 
