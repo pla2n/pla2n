@@ -32,5 +32,5 @@ SCIE급 논문 1저자 경험과 RAG 기반 서비스 개발 역량을 갖춘 �
 ---
 
 ### 📫 **Connect**
-- **Email**: rred5899@yu.ac.kr
+- **Email**: rred5899@gmail.com
 - **Solved.ac**: [red5899](https://solved.ac/profile/red5899)
